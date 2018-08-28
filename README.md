@@ -1,6 +1,6 @@
 # Chrome Extension Google Research
 
-I am trying to build a website bookkeeper that will allow to store bookmarks in folders that are based on google searches.  Basically I want to keep track of my google searches and the related results I click on to get the answers that I am looking for.
+I am trying to build a website bookkeeper that will allow to store bookmarks in folders that are based on google searches.  Basically I want to keep track of my google searches and the related results I click on to get the answers that I am looking for. Note: There is some code that is commented out for the time being.  I will used that later on.
 
 ## Getting Started
 
