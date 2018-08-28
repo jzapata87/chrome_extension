@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+  "name": "Research tracker",
+  "version": "1.0",
+  "content_scripts" : [
+    {
+      "matches": [
+        "<all_urls>"
+      ],
+      "js": ["content.js"]
+    },
+    {
+      "matches": ["https://www.google.com/search*"],
+      "js": ["search.js"]
+    }
+  ],
+   "permissions" : ["storage"]
+}
